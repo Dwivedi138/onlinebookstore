@@ -1,5 +1,7 @@
 #This is done from server.
-# This is to check the POM * * * * * 
+# This is to check the POM * * * * *
+
+# This is after the setup of S3 bucket in AWS for artefacts in server where the jenkins runs. 
 
 # <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> OnlineBookStore </a> 
 - A Java Web Developement Project
